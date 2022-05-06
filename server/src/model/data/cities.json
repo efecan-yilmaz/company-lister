@@ -1,0 +1,16 @@
+[{
+    "id": "BR",
+    "name": "Berlin"
+  }, {
+    "id": "AM",
+    "name": "Amsterdam"
+  }, {
+    "id": "PR",
+    "name": "Paris"
+  }, {
+    "id": "RM",
+    "name": "Rome"
+  }, {
+    "id": "BC",
+    "name": "Barcelona"
+  }]

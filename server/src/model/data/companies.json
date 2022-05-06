@@ -1,0 +1,121 @@
+[{
+    "id": "1d8876ac-6bfd-4f16-8402-5e45610005f4",
+    "name": "Gigaclub",
+    "city": "BR",
+    "specialties": ["d5bff21e", "4f429d70", "384a5861"],
+    "logo": "https://placekitten.com/310/310"
+  }, {
+    "id": "9d9cf37b-4374-47ef-a326-8507e5b427b1",
+    "name": "Oodoo",
+    "city": "PR",
+    "specialties": ["abf11a06", "75f957e8"],
+    "logo": "https://placekitten.com/311/311"
+  }, {
+    "id": "f7b76501-0265-42fc-b38d-dca649a388ce",
+    "name": "Buzzster",
+    "city": "BC",
+    "specialties": ["4dd0d0da"],
+    "logo": "https://placekitten.com/312/312"
+  }, {
+    "id": "899069db-799d-4b10-84ec-a2a25258076c",
+    "name": "Vitz",
+    "city": "RM",
+    "specialties": ["d5bff21e", "19bc316e", "6e232f4e"],
+    "logo": "https://placekitten.com/313/313"
+  }, {
+    "id": "a7e9ed1a-6cad-4233-869b-9665a9198e68",
+    "name": "Ntags",
+    "city": "PR",
+    "specialties": ["19bc316e", "ac6db247"],
+    "logo": "https://placekitten.com/314/314"
+  }, {
+    "id": "56148210-d940-4b23-97fa-3378434821b1",
+    "name": "Gigashots",
+    "city": "BR",
+    "specialties": ["d5bff21e", "75f957e8", "4dd0d0da"],
+    "logo": "https://placekitten.com/315/315"
+  }, {
+    "id": "07b2c238-e78c-4404-8ec2-b80fdfe86f54",
+    "name": "Abatz",
+    "city": "BC",
+    "specialties": ["abf11a06", "6e232f4e"],
+    "logo": "https://placekitten.com/316/316"
+  }, {
+    "id": "3db75509-8738-4f1a-b87e-341dad3cafd6",
+    "name": "Thoughtstorm",
+    "city": "AM",
+    "specialties": ["4f429d70"],
+    "logo": "https://placekitten.com/317/317"
+  }, {
+    "id": "60829bc1-42ed-49ee-85e8-1301102f9362",
+    "name": "Flipopia",
+    "city": "BC",
+    "specialties": ["6e232f4e", "19bc316e", "217323f7"],
+    "logo": "https://placekitten.com/318/318"
+  }, {
+    "id": "c1368b16-448e-465d-b788-a6fe6b1c3271",
+    "name": "Fivespan",
+    "city": "RM",
+    "specialties": ["ac6db247", "4dd0d0da", "75f957e8"],
+    "logo": "https://placekitten.com/319/319"
+  }, {
+    "id": "0b0d156b-df4d-4b84-a99b-7961c84fe17d",
+    "name": "Eire",
+    "city": "PR",
+    "specialties": ["d5bff21e", "4f429d70"],
+    "logo": "https://placekitten.com/320/320"
+  }, {
+    "id": "ec6c0f25-948a-4641-a452-82e5325fa160",
+    "name": "Brightdog",
+    "city": "AM",
+    "specialties": ["384a5861"],
+    "logo": "https://placekitten.com/321/321"
+  }, {
+    "id": "44b042b3-b09d-49e5-bc84-d44a609987d8",
+    "name": "Photolist",
+    "city": "AM",
+    "specialties": ["d5bff21e", "4f429d70", "75f957e8"],
+    "logo": "https://placekitten.com/322/322"
+  }, {
+    "id": "96393b0c-0389-498f-8eaa-1f941c1550f3",
+    "name": "Izio",
+    "city": "BR",
+    "specialties": ["19bc316e"],
+    "logo": "https://placekitten.com/323/323"
+  }, {
+    "id": "0759d69e-453d-4fe9-b825-09bfed0ac456",
+    "name": "Dabfeed",
+    "city": "PR",
+    "specialties": ["abf11a06", "6e232f4e", "384a5861"],
+    "logo": "https://placekitten.com/324/324"
+  }, {
+    "id": "292ef936-18e8-4ea5-9cb3-16185d27e4c1",
+    "name": "Aimbo",
+    "city": "BC",
+    "specialties": ["4dd0d0da", "19bc316e"],
+    "logo": "https://placekitten.com/325/325"
+  }, {
+    "id": "11dfcced-883b-4894-ba3e-fcd5c37a8840",
+    "name": "Wikibox",
+    "city": "RM",
+    "specialties": ["abf11a06", "6e232f4e", "384a5861"],
+    "logo": "https://placekitten.com/326/326"
+  }, {
+    "id": "3d86949e-2381-40aa-beb6-3b13e1d2eee4",
+    "name": "Chatterbridge",
+    "city": "BR",
+    "specialties": ["4dd0d0da", "d5bff21e"],
+    "logo": "https://placekitten.com/327/327"
+  }, {
+    "id": "440363d0-a1e3-4587-9d2d-67814855cca6",
+    "name": "Twitterbridge",
+    "city": "PR",
+    "specialties": ["217323f7"],
+    "logo": "https://placekitten.com/328/328"
+  }, {
+    "id": "4b59e050-f286-4854-8aa5-d9a989319ff5",
+    "name": "Oyoyo",
+    "city": "BC",
+    "specialties": ["4f429d70", "ac6db247", "75f957e8"],
+    "logo": "https://placekitten.com/329/329"
+  }]
